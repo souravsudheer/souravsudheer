@@ -2,8 +2,8 @@
 
 ### Hi there, I am Sourav Sudheer 👋
 
-[![linkedin](https://img.shields.io/website?label=Abheendra&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/sourav-sudheer-a17087144/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abheendra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sudheer_sourav/)
+[![linkedin](https://img.shields.io/website?label=Sourav&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/sourav-sudheer-a17087144/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sourav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sudheer_sourav/)
 
 
 ### I'm an Undergrad Student and a Data Science Enthusiast!
